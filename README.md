@@ -7,6 +7,7 @@ Table of contents
 
 - [Awesome Microsoft Flight Simulator 2020](#awesome-microsoft-flight-simulator-2020)
   - [Great addons and standalone applications](#great-addons-and-standalone-applications)
+  - [Aircrafts / aircraft addons](#aircrafts--aircraft-addons)
   - [Websites with downloadable addons and contents](#websites-with-downloadable-addons-and-contents)
   - [Flight planning websites](#flight-planning-websites)
   - [Websites with news](#websites-with-news)
@@ -18,11 +19,33 @@ Table of contents
 
 ## Great addons and standalone applications
 
-* [FlyByWire A32NX Airbus A320 mod](https://github.com/flybywiresim/a32nx)
-* [FS Economy - multiplayer game-in-game](https://www.fseconomy.net/)
+* [AITrack head tracker](https://github.com/AIRLegend/aitrack)
+* [Bushtalk radio](https://bushtalkradio.com/)
+* [Flightsim Squadron - aircrafts](https://flightsimsquadron.com/)
+* [FlightShare - online flying, map and game-in-game](https://flightsim.to/file/1852/flightshare)
+* [FltPlan Go (android)](https://play.google.com/store/apps/details?id=com.fltplan.go&hl=no&gl=US)
+* [FltPlan Go (apple)](https://apps.apple.com/us/app/fltplan-go/id694832363)
+* [FS Economy - multiplayer and career game-in-game](https://www.fseconomy.net/)
+* [Garmin G3000 app on Android tablet](https://flightsim.to/file/2379/msfs-g3000-mfd-screen-on-android-tablet)
+* [Little Navmap - flight planning and information](https://albar965.github.io/littlenavmap.html)
+* [NeoFly - career game-in-game](https://www.neofly.net/)
+* [OpenTrack head tracker](https://github.com/opentrack/opentrack)
+* [Project Megapack - aircraft and liveries - Discord invite](https://discord.com/invite/megapack)
+* [Touch Tracker remote control](https://www.touch-portal.com/) | [Config for MSFS2020](https://github.com/HiDTH/FltSim-msfs2020-Control)
 * [VATSIM - online flying with ATC](https://vatsim.net)
 * [IVAO - online flying with ATC](https://ivao.aero/)
+* [UWA's aircraft lighting mods](https://uwajimaya.github.io/FS2020/)
+* [VFR map - in game VFR map](https://flightsim.to/file/3181/fspm-vfr-map)
 * [Volanta - online flight tracker/map covering both VATSIM, IVAO and standalone flights](https://volanta.app/)
+
+## Aircrafts / aircraft addons
+
+* [DA40-NGX improvement](https://flightsim.to/file/2738/da40-ngx-project)
+* [DA62X improvement](https://flightsim.to/file/2733/da62x-project)
+* [Dassault Dornier Alpha jet](https://flightsim.to/file/7236/dassault-dornier-alpha-jet-dev-version-0-25)
+* [FlyByWire A32NX Airbus A320 mod](https://github.com/flybywiresim/a32nx)
+* [Fokker D.21 FSX conversion](https://flightsim.to/file/3636/fokker-d-21-conversion)
+* [VL3 Rotax 915](https://github.com/r9r-dev/fs2020-vl3-rotax915)
 * [Working Title mods for small and medium aircrafts](https://github.com/Working-Title-MSFS-Mods/fspackages)
 
 ## Websites with downloadable addons and contents
