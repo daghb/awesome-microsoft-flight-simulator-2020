@@ -19,6 +19,7 @@ Table of contents
 ## Great addons and standalone applications
 
 * [FlyByWire A32NX Airbus A320 mod](https://github.com/flybywiresim/a32nx)
+* [FS Economy - multiplayer game-in-game](https://www.fseconomy.net/)
 * [VATSIM - online flying with ATC](https://vatsim.net)
 * [IVAO - online flying with ATC](https://ivao.aero/)
 * [Volanta - online flight tracker/map covering both VATSIM, IVAO and standalone flights](https://volanta.app/)
