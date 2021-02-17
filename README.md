@@ -25,8 +25,8 @@ Table of contents
 
 ## Websites with downloadable addons and contents
 
-* flightsim.to
-* msfsaddons.com
+* [flightsim.to](flightsim.to)
+* [msfsaddons.com](msfsaddons.com)
 
 ## Flight planning websites
 
@@ -38,24 +38,24 @@ Table of contents
 ## Websites with news
 
 * [flightsim.com MSFS landing page](https://www.flightsim.com/vbfs/content.php?20943-MSFS)
-* flightsimulator.com - Microsoft official website with news and forums
-* fselite.net - news and reviews
+* [flightsimulator.com - Microsoft official website with news and forums](flightsimulator.com)
+* [fselite.net - news and reviews](fselite.net)
 
 ## Social websites / discussion forums
 
 * [Flightsim creation Reddit](https://www.reddit.com/r/FS2020Creation/)
 * [flightsim.com MSFS forums](https://www.flightsim.com/vbfs/forumdisplay.php?103-Microsoft-Flight-Simulator-2020)
-* flightsim.no (Norwegian only)
+* [flightsim.no (Norwegian only)](flightsim.no)
 * [MSFS 2020 Reddit](https://www.reddit.com/r/MicrosoftFlightSim/)
 
 ## Websites for flightsim developers
 
-* fsdeveloper.com
+* [fsdeveloper.com](fsdeveloper.com)
 
 ## Addon creators
 
-* aerosoft.com
-* orbxdirect.com
+* [aerosoft.com](aerosoft.com)
+* [orbxdirect.com](orbxdirect.com)
 
 ## Avoid
 
