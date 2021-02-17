@@ -6,6 +6,7 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 - [Awesome Microsoft Flight Simulator 2020](#awesome-microsoft-flight-simulator-2020)
   - [Great addons and standalone applications](#great-addons-and-standalone-applications)
   - [Aircraft / aircraft improvement addons](#aircraft--aircraft-improvement-addons)
+  - [Multiplayer](#multiplayer)
   - [Game-in-game](#game-in-game)
   - [Websites with downloadable addons and contents](#websites-with-downloadable-addons-and-contents)
   - [Flight planning websites and apps](#flight-planning-websites-and-apps)
@@ -21,16 +22,12 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 * [AITrack - head tracker](https://github.com/AIRLegend/aitrack)
 * [Bushtalk radio - listen to local radio channels when flying](https://bushtalkradio.com/)
 * [Flightsim Squadron - aircrafts](https://flightsimsquadron.com/)
-* [FlightShare - online flying, map and game-in-game](https://flightsim.to/file/1852/flightshare)
 * [Garmin G3000 app on Android tablet](https://flightsim.to/file/2379/msfs-g3000-mfd-screen-on-android-tablet)
 * [OpenTrack - head tracker](https://github.com/opentrack/opentrack)
 * [Project Megapack - aircraft and liveries - Discord invite](https://discord.com/invite/megapack)
 * [Touch Tracker - remote control](https://www.touch-portal.com/) | [Config for MSFS2020](https://github.com/HiDTH/FltSim-msfs2020-Control)
-* [VATSIM - online flying with ATC](https://vatsim.net)
-* [IVAO - online flying with ATC](https://ivao.aero/)
 * [UWA's aircraft lighting mods](https://uwajimaya.github.io/FS2020/)
 * [VFR map - in game VFR map](https://flightsim.to/file/3181/fspm-vfr-map)
-* [Volanta - online flight tracker/map covering both VATSIM, IVAO and standalone flights](https://volanta.app/)
 
 ## Aircraft / aircraft improvement addons
 
@@ -43,6 +40,13 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 * [Savage Carbon - Savage Cub STOL realism improvement](https://flightsim.to/file/3723/savage-carbon-stol-realism-mod)
 * [VL3 Rotax 915](https://github.com/r9r-dev/fs2020-vl3-rotax915)
 * [Working Title improvements for small and medium aircrafts](https://github.com/Working-Title-MSFS-Mods/fspackages)
+
+## Multiplayer
+
+* [FlightShare - online flying, map and game-in-game](https://flightsim.to/file/1852/flightshare)
+* [IVAO - online flying with ATC](https://ivao.aero/)
+* [VATSIM - online flying with ATC](https://vatsim.net)
+* [Volanta - online flight tracker/map covering both VATSIM, IVAO and standalone flights](https://volanta.app/)
 
 ## Game-in-game
 
