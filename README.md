@@ -5,7 +5,7 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 
 - [Awesome Microsoft Flight Simulator 2020](#awesome-microsoft-flight-simulator-2020)
   - [Great addons and standalone applications](#great-addons-and-standalone-applications)
-  - [Aircrafts / aircraft addons](#aircrafts--aircraft-addons)
+  - [Aircraft / aircraft improvement addons](#aircraft--aircraft-improvement-addons)
   - [Game-in-game](#game-in-game)
   - [Websites with downloadable addons and contents](#websites-with-downloadable-addons-and-contents)
   - [Flight planning websites and apps](#flight-planning-websites-and-apps)
@@ -23,7 +23,6 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 * [Flightsim Squadron - aircrafts](https://flightsimsquadron.com/)
 * [FlightShare - online flying, map and game-in-game](https://flightsim.to/file/1852/flightshare)
 * [Garmin G3000 app on Android tablet](https://flightsim.to/file/2379/msfs-g3000-mfd-screen-on-android-tablet)
-* [Little Navmap - flight planning and information](https://albar965.github.io/littlenavmap.html)
 * [OpenTrack - head tracker](https://github.com/opentrack/opentrack)
 * [Project Megapack - aircraft and liveries - Discord invite](https://discord.com/invite/megapack)
 * [Touch Tracker - remote control](https://www.touch-portal.com/) | [Config for MSFS2020](https://github.com/HiDTH/FltSim-msfs2020-Control)
@@ -33,7 +32,7 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 * [VFR map - in game VFR map](https://flightsim.to/file/3181/fspm-vfr-map)
 * [Volanta - online flight tracker/map covering both VATSIM, IVAO and standalone flights](https://volanta.app/)
 
-## Aircrafts / aircraft addons
+## Aircraft / aircraft improvement addons
 
 * [DA40-NGX - Diamond DA40-NG improvement](https://flightsim.to/file/2738/da40-ngx-project)
 * [DA62X - Diamond DA62 improvement](https://flightsim.to/file/2733/da62x-project)
@@ -61,6 +60,7 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 * [chartfox.com - charts](https://chartfox.org/)
 * [FltPlan Go - flight planner on android](https://play.google.com/store/apps/details?id=com.fltplan.go&hl=no&gl=US)
 * [FltPlan Go - flight planner on apple](https://apps.apple.com/us/app/fltplan-go/id694832363)
+* [Little Navmap - flight planning and airport information](https://albar965.github.io/littlenavmap.html)
 * [Navigraph - flight planning and charts](navigraph.com)
 * [simbrief.com - flight planning and charts](simbrief.com)
 * [skyvector.com - flight planning and charts](skyvector.com)
