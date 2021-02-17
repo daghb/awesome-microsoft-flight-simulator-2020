@@ -28,6 +28,7 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 * [Touch Tracker - remote control](https://www.touch-portal.com/) | [Config for MSFS2020](https://github.com/HiDTH/FltSim-msfs2020-Control)
 * [UWA's aircraft lighting mods](https://uwajimaya.github.io/FS2020/)
 * [VFR map - in game VFR map](https://flightsim.to/file/3181/fspm-vfr-map)
+* [Pilot2ATC - virtual, AI traffic aware ATC](https://pilot2atc.com/)
 
 ## Aircraft / aircraft improvement addons
 
@@ -45,6 +46,7 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 
 * [FlightShare - online flying, map and game-in-game](https://flightsim.to/file/1852/flightshare)
 * [IVAO - online flying with ATC](https://ivao.aero/)
+* [PilotEdge - online flyig with ATC](https://www.pilotedge.net/)
 * [VATSIM - online flying with ATC](https://vatsim.net)
 * [Volanta - online flight tracker/map covering both VATSIM, IVAO and standalone flights](https://volanta.app/)
 
