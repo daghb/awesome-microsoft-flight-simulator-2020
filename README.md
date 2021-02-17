@@ -32,6 +32,7 @@ Table of contents
 
 ## Flight planning websites
 
+* [chartfox.com - charts](https://chartfox.org/)
 * [Navigraph - flight planning and charts](navigraph.com)
 * [simbrief.com - flight planning and charts](simbrief.com)
 * [skyvector.com - flight planning and charts](skyvector.com)
