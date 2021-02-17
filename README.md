@@ -6,6 +6,7 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 - [Awesome Microsoft Flight Simulator 2020](#awesome-microsoft-flight-simulator-2020)
   - [Great addons and standalone applications](#great-addons-and-standalone-applications)
   - [Aircrafts / aircraft addons](#aircrafts--aircraft-addons)
+  - [Game-in-game](#game-in-game)
   - [Websites with downloadable addons and contents](#websites-with-downloadable-addons-and-contents)
   - [Flight planning websites and apps](#flight-planning-websites-and-apps)
   - [Websites with news](#websites-with-news)
@@ -21,10 +22,8 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 * [Bushtalk radio - listen to local radio channels when flying](https://bushtalkradio.com/)
 * [Flightsim Squadron - aircrafts](https://flightsimsquadron.com/)
 * [FlightShare - online flying, map and game-in-game](https://flightsim.to/file/1852/flightshare)
-* [FS Economy - multiplayer and career game-in-game](https://www.fseconomy.net/)
 * [Garmin G3000 app on Android tablet](https://flightsim.to/file/2379/msfs-g3000-mfd-screen-on-android-tablet)
 * [Little Navmap - flight planning and information](https://albar965.github.io/littlenavmap.html)
-* [NeoFly - career game-in-game](https://www.neofly.net/)
 * [OpenTrack head tracker](https://github.com/opentrack/opentrack)
 * [Project Megapack - aircraft and liveries - Discord invite](https://discord.com/invite/megapack)
 * [Touch Tracker - remote control](https://www.touch-portal.com/) | [Config for MSFS2020](https://github.com/HiDTH/FltSim-msfs2020-Control)
@@ -43,6 +42,12 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 * [Fokker D.21 FSX conversion](https://flightsim.to/file/3636/fokker-d-21-conversion)
 * [VL3 Rotax 915](https://github.com/r9r-dev/fs2020-vl3-rotax915)
 * [Working Title improvements for small and medium aircrafts](https://github.com/Working-Title-MSFS-Mods/fspackages)
+
+## Game-in-game
+
+* [FS Economy - multiplayer and career game-in-game](https://www.fseconomy.net/)
+* [NeoFly - career, bush flying game-in-game](https://www.neofly.net/)
+* [The Skypark - career, tours, adventures game-in-game](https://orbxdirect.com/product/p42-the-skypark)
 
 ## Websites with downloadable addons and contents
 
@@ -79,12 +84,17 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 ## Addon creators
 
 * [aerosoft.com](aerosoft.com)
-* [orbxdirect.com](orbxdirect.com)
+* [Onfinal Studios](https://www.onfinal.dk/)
+* [ORBX](orbxdirect.com)
 
 ## Real aviation
 
+* [Avcode - aircraft, airline and airport codes, callsigns](http://www.avcodes.co.uk/)
+* [Eurocontrol AIS/Aeronautical Information Service database](https://www.ead.eurocontrol.int/fwf-eadbasic/public/cms/cmscontent.faces?configKey=default.home.page)
 * [flightaware.com real time traffic](https://flightaware.com/)
 * [flightradar24.com real time traffic](https://www.flightradar24.com)
+* [FAA Airplane flying handbook - great resource also for simmers](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook/)
+* [Jeppesens charts legend/intro](http://ww1.jeppesen.com/documents/aviation/business/ifr-paper-services/intro-USA.pdf)
 
 ## Avoid
 
