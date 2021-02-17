@@ -9,7 +9,7 @@ The awesome list of resources for Microsoft Flight Simulator 2020
   - [Game-in-game](#game-in-game)
   - [Websites with downloadable addons and contents](#websites-with-downloadable-addons-and-contents)
   - [Flight planning websites and apps](#flight-planning-websites-and-apps)
-  - [Websites with news](#websites-with-news)
+  - [Flightsim news websites](#flightsim-news-websites)
   - [Social websites / discussion forums](#social-websites--discussion-forums)
   - [Websites for flightsim developers](#websites-for-flightsim-developers)
   - [Addon creators](#addon-creators)
@@ -66,7 +66,7 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 * [skyvector.com - flight planning and charts](skyvector.com)
 * [windy.com - weather, forecasts and METAR](https://windy.com)
 
-## Websites with news
+## Flightsim news websites
 
 * [flightsim.com MSFS news landing page](https://www.flightsim.com/vbfs/content.php?20943-MSFS)
 * [flightsimulator.com - Microsoft official website with news and forums](flightsimulator.com)
