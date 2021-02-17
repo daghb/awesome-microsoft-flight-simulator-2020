@@ -77,7 +77,7 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 * [flightsim.com MSFS news landing page](https://www.flightsim.com/vbfs/content.php?20943-MSFS)
 * [flightsimulator.com - Microsoft official website with news and forums](flightsimulator.com)
 * [fselite.net - news and reviews](fselite.net)
-* [gamepressure.com - game guides for MSFS 2020](https://guides.gamepressure.com/microsoft-flight-simulator/)
+* [gamepressure.com - news and game guides for MSFS 2020](https://guides.gamepressure.com/microsoft-flight-simulator/)
 
 ## Social websites / discussion forums
 
