@@ -13,6 +13,7 @@ Table of contents
   - [Social websites / discussion forums](#social-websites--discussion-forums)
   - [Websites for flightsim developers](#websites-for-flightsim-developers)
   - [Addon creators](#addon-creators)
+  - [Real aviation](#real-aviation)
   - [Avoid](#avoid)
 
 ## Great addons and standalone applications
@@ -56,6 +57,11 @@ Table of contents
 
 * [aerosoft.com](aerosoft.com)
 * [orbxdirect.com](orbxdirect.com)
+
+## Real aviation
+
+* [flightaware.com real time traffic](https://flightaware.com/)
+* [flightradar24.com real time traffic](https://www.flightradar24.com)
 
 ## Avoid
 
