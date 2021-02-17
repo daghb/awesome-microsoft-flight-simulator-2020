@@ -24,7 +24,7 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 * [FlightShare - online flying, map and game-in-game](https://flightsim.to/file/1852/flightshare)
 * [Garmin G3000 app on Android tablet](https://flightsim.to/file/2379/msfs-g3000-mfd-screen-on-android-tablet)
 * [Little Navmap - flight planning and information](https://albar965.github.io/littlenavmap.html)
-* [OpenTrack head tracker](https://github.com/opentrack/opentrack)
+* [OpenTrack - head tracker](https://github.com/opentrack/opentrack)
 * [Project Megapack - aircraft and liveries - Discord invite](https://discord.com/invite/megapack)
 * [Touch Tracker - remote control](https://www.touch-portal.com/) | [Config for MSFS2020](https://github.com/HiDTH/FltSim-msfs2020-Control)
 * [VATSIM - online flying with ATC](https://vatsim.net)
@@ -35,11 +35,13 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 
 ## Aircrafts / aircraft addons
 
-* [DA40-NGX improvement](https://flightsim.to/file/2738/da40-ngx-project)
-* [DA62X improvement](https://flightsim.to/file/2733/da62x-project)
+* [DA40-NGX - Diamond DA40-NG improvement](https://flightsim.to/file/2738/da40-ngx-project)
+* [DA62X - Diamond DA62 improvement](https://flightsim.to/file/2733/da62x-project)
 * [Dassault Dornier Alpha jet](https://flightsim.to/file/7236/dassault-dornier-alpha-jet-dev-version-0-25)
-* [FlyByWire A32NX Airbus A320 improvement](https://github.com/flybywiresim/a32nx)
-* [Fokker D.21 FSX conversion](https://flightsim.to/file/3636/fokker-d-21-conversion)
+* [FlyByWire A32NX - Airbus A320 improvement](https://github.com/flybywiresim/a32nx)
+* [Fokker D.21 - FSX conversion](https://flightsim.to/file/3636/fokker-d-21-conversion)
+* [Icon A5 Performance - improvement](https://flightsim.to/file/6806/icon-a5-high-performance-mod)
+* [Savage Carbon - Savage Cub STOL realism improvement](https://flightsim.to/file/3723/savage-carbon-stol-realism-mod)
 * [VL3 Rotax 915](https://github.com/r9r-dev/fs2020-vl3-rotax915)
 * [Working Title improvements for small and medium aircrafts](https://github.com/Working-Title-MSFS-Mods/fspackages)
 
@@ -84,6 +86,8 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 ## Addon creators
 
 * [aerosoft.com](aerosoft.com)
+* [FlightBeam](https://www.flightbeam.net/)
+* [Milviz](https://milviz.com/flight/)
 * [Onfinal Studios](https://www.onfinal.dk/)
 * [ORBX](orbxdirect.com)
 
