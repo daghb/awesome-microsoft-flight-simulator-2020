@@ -10,8 +10,7 @@ The awesome list of resources for Microsoft Flight Simulator 2020
   - [Game-in-game](#game-in-game)
   - [Websites with downloadable addons and contents](#websites-with-downloadable-addons-and-contents)
   - [Flight planning websites and apps](#flight-planning-websites-and-apps)
-  - [Flightsim news and guide websites](#flightsim-news-and-guide-websites)
-  - [Social websites / discussion forums](#social-websites--discussion-forums)
+  - [Flightsim news, discussion and guide websites](#flightsim-news-discussion-and-guide-websites)
   - [Websites for flightsim developers](#websites-for-flightsim-developers)
   - [Addon creators](#addon-creators)
   - [Real aviation](#real-aviation)
@@ -58,8 +57,8 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 
 ## Websites with downloadable addons and contents
 
-* [flightsim.to](flightsim.to)
-* [msfsaddons.com](msfsaddons.com)
+* [flightsim.to](https://flightsim.to)
+* [msfsaddons.com](https://msfsaddons.com)
 
 ## Flight planning websites and apps
 
@@ -67,22 +66,20 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 * [FltPlan Go - flight planner on android](https://play.google.com/store/apps/details?id=com.fltplan.go&hl=no&gl=US)
 * [FltPlan Go - flight planner on apple](https://apps.apple.com/us/app/fltplan-go/id694832363)
 * [Little Navmap - flight planning and airport information](https://albar965.github.io/littlenavmap.html)
-* [Navigraph - flight planning and charts](navigraph.com)
-* [simbrief.com - flight planning and charts](simbrief.com)
-* [skyvector.com - flight planning and charts](skyvector.com)
+* [Navigraph - flight planning and charts](https://navigraph.com)
+* [simbrief.com - flight planning and charts](https://simbrief.com)
+* [skyvector.com - flight planning and charts](https://skyvector.com)
 * [windy.com - weather, forecasts and METAR](https://windy.com)
 
-## Flightsim news and guide websites
+## Flightsim news, discussion and guide websites
 
-* [flightsim.com MSFS news landing page](https://www.flightsim.com/vbfs/content.php?20943-MSFS)
-* [flightsimulator.com - Microsoft official website with news and forums](flightsimulator.com)
-* [fselite.net - news and reviews](fselite.net)
+* [avsim.com - news and disccussion forums](https://www.avsim.com/)
+* [flightsim.com - MSFS forums](https://www.flightsim.com/vbfs/forumdisplay.php?103-Microsoft-Flight-Simulator-2020)
+* [flightsim.com - MSFS news landing page](https://www.flightsim.com/vbfs/content.php?20943-MSFS)
+* [flightsim.no - Norwegian only forums](https://flightsim.no)
+* [flightsimulator.com - Microsoft official website with news and forums](https://flightsimulator.com)
+* [fselite.net - news and reviews](https://fselite.net)
 * [gamepressure.com - news and game guides for MSFS 2020](https://guides.gamepressure.com/microsoft-flight-simulator/)
-
-## Social websites / discussion forums
-
-* [flightsim.com MSFS forums](https://www.flightsim.com/vbfs/forumdisplay.php?103-Microsoft-Flight-Simulator-2020)
-* [flightsim.no (Norwegian only)](flightsim.no)
 * [Reddit /r/FS2020Creation](https://www.reddit.com/r/FS2020Creation/)
 * [Reddit /r/MicrosoftFlightSim](https://www.reddit.com/r/MicrosoftFlightSim/)
 
@@ -92,11 +89,11 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 
 ## Addon creators
 
-* [aerosoft.com](aerosoft.com)
+* [aerosoft.com](https://aerosoft.com)
 * [FlightBeam](https://www.flightbeam.net/)
 * [Milviz](https://milviz.com/flight/)
 * [Onfinal Studios](https://www.onfinal.dk/)
-* [ORBX](orbxdirect.com)
+* [ORBX](https://orbxdirect.com)
 
 ## Real aviation
 
