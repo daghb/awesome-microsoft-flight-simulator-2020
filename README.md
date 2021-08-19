@@ -35,7 +35,7 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 * [DA40-NGX - Diamond DA40-NG improvement](https://flightsim.to/file/2738/da40-ngx-project)
 * [DA62X - Diamond DA62 improvement](https://flightsim.to/file/2733/da62x-project)
 * [Dassault Dornier Alpha jet](https://flightsim.to/file/7236/dassault-dornier-alpha-jet-dev-version-0-25)
-* [FlyByWire A32NX - Airbus A320 improvement](https://github.com/flybywiresim/a32nx)
+* [FlyByWire A32NX - Airbus A320 improvement](https://flybywiresim.com/)
 * [Fokker D.21 - FSX conversion](https://flightsim.to/file/3636/fokker-d-21-conversion)
 * [Icon A5 Performance - improvement](https://flightsim.to/file/6806/icon-a5-high-performance-mod)
 * [Savage Carbon - Savage Cub STOL realism improvement](https://flightsim.to/file/3723/savage-carbon-stol-realism-mod)
@@ -64,12 +64,14 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 ## Flight planning websites and apps
 
 * [chartfox.com - charts](https://chartfox.org/)
+* [Choose runway](https://runway.airportdb.io/)
 * [FltPlan Go - flight planner on android](https://play.google.com/store/apps/details?id=com.fltplan.go&hl=no&gl=US)
 * [FltPlan Go - flight planner on apple](https://apps.apple.com/us/app/fltplan-go/id694832363)
 * [Little Navmap - flight planning and airport information](https://albar965.github.io/littlenavmap.html)
 * [Navigraph - flight planning and charts](https://navigraph.com)
 * [simbrief.com - flight planning and charts](https://simbrief.com)
 * [skyvector.com - flight planning and charts](https://skyvector.com)
+* [Top of descent calculator](https://descent.vercel.app/)
 * [windy.com - weather, forecasts and METAR](https://windy.com)
 
 ## Flightsim news, discussion and guide websites
@@ -90,11 +92,13 @@ The awesome list of resources for Microsoft Flight Simulator 2020
 
 ## Addon creators
 
-* [aerosoft.com](https://aerosoft.com)
+* [Aerosoft](https://aerosoft.com)
 * [FlightBeam](https://www.flightbeam.net/)
+* [Flyingiron Simulations](https://flyingironsimulations.com/)
 * [Milviz](https://milviz.com/flight/)
 * [Onfinal Studios](https://www.onfinal.dk/)
 * [ORBX](https://orbxdirect.com)
+* [PMDG](https://pmdg.com/)
 
 ## Real aviation
 
