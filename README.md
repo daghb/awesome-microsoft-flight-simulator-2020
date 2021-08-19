@@ -1,6 +1,8 @@
 # Awesome Microsoft Flight Simulator 2020
 The awesome list of resources for Microsoft Flight Simulator 2020
 
+For contributions - please refer to (./CONTRIBUTING.md)
+
 **Table of contents**
 
 - [Awesome Microsoft Flight Simulator 2020](#awesome-microsoft-flight-simulator-2020)
