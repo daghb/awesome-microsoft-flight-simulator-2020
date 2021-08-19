@@ -25,12 +25,12 @@ For contributions - please refer to [CONTRIBUTING.md](./CONTRIBUTING.md)
 * [Flightsim Squadron - aircrafts](https://flightsimsquadron.com/)
 * [Garmin G3000 app on Android tablet](https://flightsim.to/file/2379/msfs-g3000-mfd-screen-on-android-tablet)
 * [OpenTrack - head tracker](https://github.com/opentrack/opentrack)
+* [Pilot2ATC - virtual, AI traffic aware ATC](https://pilot2atc.com/)
 * [Project Megapack - aircraft and liveries - Discord invite](https://discord.com/invite/megapack)
 * [SimTookit Pro - electronic flight bag and logger](https://simtoolkitpro.co.uk/)
 * [Touch Tracker - remote control](https://www.touch-portal.com/) | [Config for MSFS2020](https://github.com/HiDTH/FltSim-msfs2020-Control)
 * [UWA's aircraft lighting mods](https://uwajimaya.github.io/FS2020/)
 * [VFR map - in game VFR map](https://flightsim.to/file/3181/fspm-vfr-map)
-* [Pilot2ATC - virtual, AI traffic aware ATC](https://pilot2atc.com/)
 
 ## Aircraft / aircraft improvement addons
 
